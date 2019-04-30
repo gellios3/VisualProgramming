@@ -1,0 +1,4611 @@
+fileFormatVersion: 2
+guid: 5a603152d2802434ca17b8d32a16372e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NES - Battletoads - Battletoads_0
+  - first:
+      213: 21300002
+    second: NES - Battletoads - Battletoads_1
+  - first:
+      213: 21300004
+    second: NES - Battletoads - Battletoads_2
+  - first:
+      213: 21300006
+    second: NES - Battletoads - Battletoads_3
+  - first:
+      213: 21300008
+    second: NES - Battletoads - Battletoads_4
+  - first:
+      213: 21300010
+    second: NES - Battletoads - Battletoads_5
+  - first:
+      213: 21300012
+    second: NES - Battletoads - Battletoads_6
+  - first:
+      213: 21300014
+    second: NES - Battletoads - Battletoads_7
+  - first:
+      213: 21300016
+    second: NES - Battletoads - Battletoads_8
+  - first:
+      213: 21300018
+    second: NES - Battletoads - Battletoads_9
+  - first:
+      213: 21300020
+    second: NES - Battletoads - Battletoads_10
+  - first:
+      213: 21300022
+    second: NES - Battletoads - Battletoads_11
+  - first:
+      213: 21300024
+    second: NES - Battletoads - Battletoads_12
+  - first:
+      213: 21300026
+    second: NES - Battletoads - Battletoads_13
+  - first:
+      213: 21300028
+    second: NES - Battletoads - Battletoads_14
+  - first:
+      213: 21300030
+    second: NES - Battletoads - Battletoads_15
+  - first:
+      213: 21300032
+    second: NES - Battletoads - Battletoads_16
+  - first:
+      213: 21300034
+    second: NES - Battletoads - Battletoads_17
+  - first:
+      213: 21300036
+    second: NES - Battletoads - Battletoads_18
+  - first:
+      213: 21300038
+    second: NES - Battletoads - Battletoads_19
+  - first:
+      213: 21300040
+    second: NES - Battletoads - Battletoads_20
+  - first:
+      213: 21300042
+    second: NES - Battletoads - Battletoads_21
+  - first:
+      213: 21300044
+    second: NES - Battletoads - Battletoads_22
+  - first:
+      213: 21300046
+    second: NES - Battletoads - Battletoads_23
+  - first:
+      213: 21300048
+    second: NES - Battletoads - Battletoads_24
+  - first:
+      213: 21300050
+    second: NES - Battletoads - Battletoads_25
+  - first:
+      213: 21300052
+    second: NES - Battletoads - Battletoads_26
+  - first:
+      213: 21300054
+    second: NES - Battletoads - Battletoads_27
+  - first:
+      213: 21300056
+    second: NES - Battletoads - Battletoads_28
+  - first:
+      213: 21300058
+    second: NES - Battletoads - Battletoads_29
+  - first:
+      213: 21300060
+    second: NES - Battletoads - Battletoads_30
+  - first:
+      213: 21300062
+    second: NES - Battletoads - Battletoads_31
+  - first:
+      213: 21300064
+    second: NES - Battletoads - Battletoads_32
+  - first:
+      213: 21300066
+    second: NES - Battletoads - Battletoads_33
+  - first:
+      213: 21300068
+    second: NES - Battletoads - Battletoads_34
+  - first:
+      213: 21300070
+    second: NES - Battletoads - Battletoads_35
+  - first:
+      213: 21300072
+    second: NES - Battletoads - Battletoads_36
+  - first:
+      213: 21300074
+    second: NES - Battletoads - Battletoads_37
+  - first:
+      213: 21300076
+    second: NES - Battletoads - Battletoads_38
+  - first:
+      213: 21300078
+    second: NES - Battletoads - Battletoads_39
+  - first:
+      213: 21300080
+    second: NES - Battletoads - Battletoads_40
+  - first:
+      213: 21300082
+    second: NES - Battletoads - Battletoads_41
+  - first:
+      213: 21300084
+    second: NES - Battletoads - Battletoads_42
+  - first:
+      213: 21300086
+    second: NES - Battletoads - Battletoads_43
+  - first:
+      213: 21300088
+    second: NES - Battletoads - Battletoads_44
+  - first:
+      213: 21300090
+    second: NES - Battletoads - Battletoads_45
+  - first:
+      213: 21300092
+    second: NES - Battletoads - Battletoads_46
+  - first:
+      213: 21300094
+    second: NES - Battletoads - Battletoads_47
+  - first:
+      213: 21300096
+    second: NES - Battletoads - Battletoads_48
+  - first:
+      213: 21300098
+    second: NES - Battletoads - Battletoads_49
+  - first:
+      213: 21300100
+    second: NES - Battletoads - Battletoads_50
+  - first:
+      213: 21300102
+    second: NES - Battletoads - Battletoads_51
+  - first:
+      213: 21300104
+    second: NES - Battletoads - Battletoads_52
+  - first:
+      213: 21300106
+    second: NES - Battletoads - Battletoads_53
+  - first:
+      213: 21300108
+    second: NES - Battletoads - Battletoads_54
+  - first:
+      213: 21300110
+    second: NES - Battletoads - Battletoads_55
+  - first:
+      213: 21300112
+    second: NES - Battletoads - Battletoads_56
+  - first:
+      213: 21300114
+    second: NES - Battletoads - Battletoads_57
+  - first:
+      213: 21300116
+    second: NES - Battletoads - Battletoads_58
+  - first:
+      213: 21300118
+    second: NES - Battletoads - Battletoads_59
+  - first:
+      213: 21300120
+    second: NES - Battletoads - Battletoads_60
+  - first:
+      213: 21300122
+    second: NES - Battletoads - Battletoads_61
+  - first:
+      213: 21300124
+    second: NES - Battletoads - Battletoads_62
+  - first:
+      213: 21300126
+    second: NES - Battletoads - Battletoads_63
+  - first:
+      213: 21300128
+    second: NES - Battletoads - Battletoads_64
+  - first:
+      213: 21300130
+    second: NES - Battletoads - Battletoads_65
+  - first:
+      213: 21300132
+    second: NES - Battletoads - Battletoads_66
+  - first:
+      213: 21300134
+    second: NES - Battletoads - Battletoads_67
+  - first:
+      213: 21300136
+    second: NES - Battletoads - Battletoads_68
+  - first:
+      213: 21300138
+    second: NES - Battletoads - Battletoads_69
+  - first:
+      213: 21300140
+    second: NES - Battletoads - Battletoads_70
+  - first:
+      213: 21300142
+    second: NES - Battletoads - Battletoads_71
+  - first:
+      213: 21300144
+    second: NES - Battletoads - Battletoads_72
+  - first:
+      213: 21300146
+    second: NES - Battletoads - Battletoads_73
+  - first:
+      213: 21300148
+    second: NES - Battletoads - Battletoads_74
+  - first:
+      213: 21300150
+    second: NES - Battletoads - Battletoads_75
+  - first:
+      213: 21300152
+    second: NES - Battletoads - Battletoads_76
+  - first:
+      213: 21300154
+    second: NES - Battletoads - Battletoads_77
+  - first:
+      213: 21300156
+    second: NES - Battletoads - Battletoads_78
+  - first:
+      213: 21300158
+    second: NES - Battletoads - Battletoads_79
+  - first:
+      213: 21300160
+    second: NES - Battletoads - Battletoads_80
+  - first:
+      213: 21300162
+    second: NES - Battletoads - Battletoads_81
+  - first:
+      213: 21300164
+    second: NES - Battletoads - Battletoads_82
+  - first:
+      213: 21300166
+    second: NES - Battletoads - Battletoads_83
+  - first:
+      213: 21300168
+    second: NES - Battletoads - Battletoads_84
+  - first:
+      213: 21300170
+    second: NES - Battletoads - Battletoads_85
+  - first:
+      213: 21300172
+    second: NES - Battletoads - Battletoads_86
+  - first:
+      213: 21300174
+    second: NES - Battletoads - Battletoads_87
+  - first:
+      213: 21300176
+    second: NES - Battletoads - Battletoads_88
+  - first:
+      213: 21300178
+    second: NES - Battletoads - Battletoads_89
+  - first:
+      213: 21300180
+    second: NES - Battletoads - Battletoads_90
+  - first:
+      213: 21300182
+    second: NES - Battletoads - Battletoads_91
+  - first:
+      213: 21300184
+    second: NES - Battletoads - Battletoads_92
+  - first:
+      213: 21300186
+    second: NES - Battletoads - Battletoads_93
+  - first:
+      213: 21300188
+    second: NES - Battletoads - Battletoads_94
+  - first:
+      213: 21300190
+    second: NES - Battletoads - Battletoads_95
+  - first:
+      213: 21300192
+    second: NES - Battletoads - Battletoads_96
+  - first:
+      213: 21300194
+    second: NES - Battletoads - Battletoads_97
+  - first:
+      213: 21300196
+    second: NES - Battletoads - Battletoads_98
+  - first:
+      213: 21300198
+    second: NES - Battletoads - Battletoads_99
+  - first:
+      213: 21300200
+    second: NES - Battletoads - Battletoads_100
+  - first:
+      213: 21300202
+    second: NES - Battletoads - Battletoads_101
+  - first:
+      213: 21300204
+    second: NES - Battletoads - Battletoads_102
+  - first:
+      213: 21300206
+    second: NES - Battletoads - Battletoads_103
+  - first:
+      213: 21300208
+    second: NES - Battletoads - Battletoads_104
+  - first:
+      213: 21300210
+    second: NES - Battletoads - Battletoads_105
+  - first:
+      213: 21300212
+    second: NES - Battletoads - Battletoads_106
+  - first:
+      213: 21300214
+    second: NES - Battletoads - Battletoads_107
+  - first:
+      213: 21300216
+    second: NES - Battletoads - Battletoads_108
+  - first:
+      213: 21300218
+    second: NES - Battletoads - Battletoads_109
+  - first:
+      213: 21300220
+    second: NES - Battletoads - Battletoads_110
+  - first:
+      213: 21300222
+    second: NES - Battletoads - Battletoads_111
+  - first:
+      213: 21300224
+    second: NES - Battletoads - Battletoads_112
+  - first:
+      213: 21300226
+    second: NES - Battletoads - Battletoads_113
+  - first:
+      213: 21300228
+    second: NES - Battletoads - Battletoads_114
+  - first:
+      213: 21300230
+    second: NES - Battletoads - Battletoads_115
+  - first:
+      213: 21300232
+    second: NES - Battletoads - Battletoads_116
+  - first:
+      213: 21300234
+    second: NES - Battletoads - Battletoads_117
+  - first:
+      213: 21300236
+    second: NES - Battletoads - Battletoads_118
+  - first:
+      213: 21300238
+    second: NES - Battletoads - Battletoads_119
+  - first:
+      213: 21300240
+    second: NES - Battletoads - Battletoads_120
+  - first:
+      213: 21300242
+    second: NES - Battletoads - Battletoads_121
+  - first:
+      213: 21300244
+    second: NES - Battletoads - Battletoads_122
+  - first:
+      213: 21300246
+    second: NES - Battletoads - Battletoads_123
+  - first:
+      213: 21300248
+    second: NES - Battletoads - Battletoads_124
+  - first:
+      213: 21300250
+    second: NES - Battletoads - Battletoads_125
+  - first:
+      213: 21300252
+    second: NES - Battletoads - Battletoads_126
+  - first:
+      213: 21300254
+    second: NES - Battletoads - Battletoads_127
+  - first:
+      213: 21300256
+    second: NES - Battletoads - Battletoads_128
+  - first:
+      213: 21300258
+    second: NES - Battletoads - Battletoads_129
+  - first:
+      213: 21300260
+    second: NES - Battletoads - Battletoads_130
+  - first:
+      213: 21300262
+    second: NES - Battletoads - Battletoads_131
+  - first:
+      213: 21300264
+    second: NES - Battletoads - Battletoads_132
+  - first:
+      213: 21300266
+    second: NES - Battletoads - Battletoads_133
+  - first:
+      213: 21300268
+    second: NES - Battletoads - Battletoads_134
+  - first:
+      213: 21300270
+    second: NES - Battletoads - Battletoads_135
+  - first:
+      213: 21300272
+    second: NES - Battletoads - Battletoads_136
+  - first:
+      213: 21300274
+    second: NES - Battletoads - Battletoads_137
+  - first:
+      213: 21300276
+    second: NES - Battletoads - Battletoads_138
+  - first:
+      213: 21300278
+    second: NES - Battletoads - Battletoads_139
+  - first:
+      213: 21300280
+    second: NES - Battletoads - Battletoads_140
+  - first:
+      213: 21300282
+    second: NES - Battletoads - Battletoads_141
+  - first:
+      213: 21300284
+    second: NES - Battletoads - Battletoads_142
+  - first:
+      213: 21300286
+    second: NES - Battletoads - Battletoads_143
+  - first:
+      213: 21300288
+    second: NES - Battletoads - Battletoads_144
+  - first:
+      213: 21300290
+    second: NES - Battletoads - Battletoads_145
+  - first:
+      213: 21300292
+    second: NES - Battletoads - Battletoads_146
+  - first:
+      213: 21300294
+    second: NES - Battletoads - Battletoads_147
+  - first:
+      213: 21300296
+    second: NES - Battletoads - Battletoads_148
+  - first:
+      213: 21300298
+    second: NES - Battletoads - Battletoads_149
+  - first:
+      213: 21300300
+    second: NES - Battletoads - Battletoads_150
+  - first:
+      213: 21300302
+    second: NES - Battletoads - Battletoads_151
+  - first:
+      213: 21300304
+    second: NES - Battletoads - Battletoads_152
+  - first:
+      213: 21300306
+    second: NES - Battletoads - Battletoads_153
+  - first:
+      213: 21300308
+    second: NES - Battletoads - Battletoads_154
+  - first:
+      213: 21300310
+    second: NES - Battletoads - Battletoads_155
+  - first:
+      213: 21300312
+    second: NES - Battletoads - Battletoads_156
+  - first:
+      213: 21300314
+    second: NES - Battletoads - Battletoads_157
+  - first:
+      213: 21300316
+    second: NES - Battletoads - Battletoads_158
+  - first:
+      213: 21300318
+    second: NES - Battletoads - Battletoads_159
+  - first:
+      213: 21300320
+    second: NES - Battletoads - Battletoads_160
+  - first:
+      213: 21300322
+    second: NES - Battletoads - Battletoads_161
+  - first:
+      213: 21300324
+    second: NES - Battletoads - Battletoads_162
+  - first:
+      213: 21300326
+    second: NES - Battletoads - Battletoads_163
+  - first:
+      213: 21300328
+    second: NES - Battletoads - Battletoads_164
+  - first:
+      213: 21300330
+    second: NES - Battletoads - Battletoads_165
+  - first:
+      213: 21300332
+    second: NES - Battletoads - Battletoads_166
+  - first:
+      213: 21300334
+    second: NES - Battletoads - Battletoads_167
+  - first:
+      213: 21300336
+    second: NES - Battletoads - Battletoads_168
+  - first:
+      213: 21300338
+    second: NES - Battletoads - Battletoads_169
+  - first:
+      213: 21300340
+    second: NES - Battletoads - Battletoads_170
+  - first:
+      213: 21300342
+    second: NES - Battletoads - Battletoads_171
+  - first:
+      213: 21300344
+    second: NES - Battletoads - Battletoads_172
+  - first:
+      213: 21300346
+    second: NES - Battletoads - Battletoads_173
+  - first:
+      213: 21300348
+    second: NES - Battletoads - Battletoads_174
+  - first:
+      213: 21300350
+    second: NES - Battletoads - Battletoads_175
+  - first:
+      213: 21300352
+    second: NES - Battletoads - Battletoads_176
+  - first:
+      213: 21300354
+    second: NES - Battletoads - Battletoads_177
+  - first:
+      213: 21300356
+    second: NES - Battletoads - Battletoads_178
+  - first:
+      213: 21300358
+    second: NES - Battletoads - Battletoads_179
+  - first:
+      213: 21300360
+    second: NES - Battletoads - Battletoads_180
+  - first:
+      213: 21300362
+    second: NES - Battletoads - Battletoads_181
+  - first:
+      213: 21300364
+    second: NES - Battletoads - Battletoads_182
+  - first:
+      213: 21300366
+    second: NES - Battletoads - Battletoads_183
+  - first:
+      213: 21300368
+    second: NES - Battletoads - Battletoads_184
+  - first:
+      213: 21300370
+    second: NES - Battletoads - Battletoads_185
+  - first:
+      213: 21300372
+    second: NES - Battletoads - Battletoads_186
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 586
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae84d5eae3fab94f9ab7c52543965d1
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 587
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66ae8f136d0f147b0170e0f2480319
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 587
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e20f9ac4873f3418089f436d864c73
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 588
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3f206754f80a849919f62c8c6f3100
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 588
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11ea3368ee06e54594757e62a1b1b67
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 587
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68177731a9370134aa220b214c11b92a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 586
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95fc9055ec34844c82e792a03d09c39
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 587
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b218c06e91b884e8d6966a7c092d7f
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 588
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b94146ccb6f0e48acaaa8562d2e923
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 587
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ee50e7a772ea24d9ccaf7d7ffbd8f6
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_10
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 589
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef4e22eaeb6f7041ba4ff3defb057d9
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 585
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea60fb434352d5b419cd28d702b9ab3d
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 585
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aff45f5f04c934987b1e03f28cc8fb
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 584
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8387009aa2075fb46be41adcfe482fac
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_14
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 582
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8440c81591a901b4a94f8811a03bd2eb
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 585
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47ad8142bd25f49841499dd524cb01
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 583
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1146b58cc6a3fb498ff9c0c1136706e
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_17
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 583
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c31deedfd990f438d9559987a438f9
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 536
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baabcd54599cbba4db18e29612d0feb4
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 536
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74b3f4f0e950564884998a1dff79041
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 534
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d666ec4fe35ba84986421bf8209db04
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 534
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0de2aea3610a0d488b7e24fa5224bd8
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 568
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dd95c5c5b4b004a9d18341f5c54839
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 533
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79690431fe8ed774fa999d852106666f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_24
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 533
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d66d2f6e164a842a190fcf3ab843c0
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 533
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c6d09a6f706764683fbca363484821
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_26
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 528
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0c36bd62c2f49468a9c33378e066a3
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 535
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e948ceb9bff0c4daa6a56dd18c4910
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 534
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4dfa4617d8cfe408cb7cf3412e756c
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 536
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e7e3dc4e8e0f94fb3882b20794eda7
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_30
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 533
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd56db0b2fae08049a60809073bcadf5
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_31
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 536
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea8819065d259848b33c65cb3e2d7a2
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_32
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 531
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98f4c5fe62b9b24b825a45a23c4f6a7
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 490
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79fde844d33635438adca10efa1776d
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 491
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86e7b796526a244dbef1beceb2494e7
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 491
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7834d87a9ca47d4992ae069125ef76a
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 494
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5106e689b910e145b583eff56491765
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 491
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3ef91448be44542843b61c7d62367b
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 492
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fada17107633044b4e9a36847f9d3f
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 495
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b41e5766c79e5419c4587a6269666d
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 486
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308fe8a2d2214a7498516e8202429fc7
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_41
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 490
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db34044367cc8e64b835d47c4ddcd16e
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_42
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 487
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e10be64080bc7479bf9750c319bc45
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_43
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 486
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6cb7ea2fba1cc4d98f473ac0576289
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 490
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a079c4f1f84ca43ae22d945ccade46
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 488
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9431fea14a18c0342af3a6887c2c121f
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_46
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 491
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3fb326ffd4a3f46a59d073c36b3e45
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_47
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 492
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f04d8289aa37364b84f5959325000d9
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 442
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303776dd4d104ac458759b039a26d971
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 452
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdc410c3ed0eba4d96538c8f04ceea6
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_50
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 446
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c8d2a6674c624299ed90abdcc3f47
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_51
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 450
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccf189d921e0154da3b51e47dccb008
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 445
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c160295db64e784499a5e31f1e27504
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_53
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 443
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e709543591513a42983b5d21e510fd9
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_54
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 445
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8407e80550da4ab7e75c98be34a17
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_55
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 445
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb30af0c45e3d3458faddc8f38b2e94
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_56
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 444
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1a5680b8f2f2240b8a7788343e9010
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_57
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 447
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf1ba59068a11249adf3247274808dd
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 452
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8e20267cc76d44eb4963937554df7e
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 452
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdc42774171b1842b471182e9fa3965
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_60
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 445
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3465957133645a418b125ea15be3774
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_61
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 448
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1fdf38f727b9a43ac08112c44c8c57
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_62
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 447
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5826bc8228fa9854f96ffe6e7438d100
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_63
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 457
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4880adb4b01da3a4c8d851cc6bbd5541
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 387
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eec50b88657434d89db9d95ca4dca4
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_65
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 383
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34bb71314e262540bbd1cfc3fef9464
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 396
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6082b3c95c4008e4bbf5064a3f1323ff
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_67
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 391
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decd30cc396da5d43b7e10d1e23053f3
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 402
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f09306da25e9054ea612b0626f971c1
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_69
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 394
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7e67d473acc664a931ad2ed3521963
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 398
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72b1bfa05ce7a469385809a64d8e3d
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_71
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 396
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111dc5b347d17b3439e456adea1a0e02
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_72
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 403
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34edce42054a2cf4ca1c828430eb7ca1
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_73
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 405
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd32d65d769719c48bff0e8b07a2894f
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_74
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 402
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079fb89bc24987142a1d7b2c19f4b49b
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_75
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 402
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c622bbca4cde3974fb4130b3600731e8
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 399
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27eaa914e102f5408dfabca2bd0c360
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_77
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 402
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7957aa8d64814d446a431b9acc703b45
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_78
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 398
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc79e447c0c292418365a39d6cd447a
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_79
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 398
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e41e60c7bca3ff48ace951d76aa69cd
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_80
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 397
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c337e3b9114a1048aa188c644386045
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_81
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 334
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e720240f868a3cf46bd45dd7feaf5b2b
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_82
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 332
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd6e3bd0faee374f806f4c5ba0d2b99
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_83
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 334
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b380be1415f0604a9325eb286469592
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_84
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 333
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b70f6ccaaf5d4643aa23baf628fa6f7
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_85
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 335
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebf076b91486ed458757559a09a5883
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 335
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa6437714947ad42aaacb4af3c52395
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_87
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 338
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8795a051a00da4d805fafe23c7c8e1
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_88
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 340
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006b5f2a2acf2b845a130b7fb0dacf49
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_89
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 340
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dff708f515a8647a0c7e1c45b86ef4
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_90
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 339
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda13c01d97569d44a853eb786da98db
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_91
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 353
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf535739ae4074dbe627cfa47586c3
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_92
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 361
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99c6bc1c33b989418929f9c44cd089e
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_93
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 333
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657202a97fe80be449819e8c72a59a99
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_94
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 343
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e5841fa496d9d4fbc17a79dd6f0468
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_95
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 363
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7eaec74a2852b4fb67d4e70f0999d4
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_96
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 364
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6615dfde1c76c74d871b1f8e498cf2c
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_97
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 363
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c626c44b2703ce4fa93b54a06698984
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_98
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 336
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b888f055427f26d4baae34f1662bde33
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 280
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cef49777de585d4e8a9f75890de58dd
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_100
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 281
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a877725b45e0aa4084756666427eb2c
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 282
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c05b3adc7953464886bfe1bc2e14881
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_102
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 282
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651d63730b4d73f429cbc106f487ad05
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_103
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 284
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00bf093bb6a66e4eafeee704c563b44
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_104
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 278
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e64ac1a1d3d8141973487b69258cf5
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_105
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 279
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8bbb5a45d41a94d9beb3b77e6bb31b
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_106
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad499293ff8e9144918351ea1a35462
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 292
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abb7c9af10454f4aab1322a2d257487
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_108
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 291
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c73901ba2cf8cc49b7e598e461ae42e
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_109
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 279
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96294b4e24c30e04c905fd9bf1edd3ea
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_110
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 298
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059afdc10a1da7c4292f41b0a919be1a
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_111
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 306
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b5f85e1d24242459d4c7618a78df19
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_112
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 285
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e9e08f0fc34b647b1ac493afe79b2e
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_113
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 288
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7da66e65abc47142974db6218c5cd34
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_114
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 281
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98be2953adbc45c45b5c35cd9ca9a4e0
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_115
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 220
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a4565821fa3274fa2175ffe51f19fd
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_116
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 243
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8e39a4e72b4624db5b6019760474e9
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_117
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 219
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c9eb9039a88c54bbdaa380435861aa
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_118
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 221
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e7e11c6ef27d24c8cc15b9c15a0413
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_119
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 221
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e759be2b3e80cbc40a1eb851a26c4ff4
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_120
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 223
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a4b3a259d516418d3a910b5dc7eaf
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_121
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 222
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64725b473ccb8d4485f107f73af0dbd
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_122
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 226
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399c73c30908cc046a3e80731a2128f8
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_123
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 227
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87ad487f3fd004488536e3c65f138b7
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_124
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 226
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c75bd4b1b27b71489e9b25940124cea
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_125
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 227
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb703f80f7bcf24c99a03bacceb76e9
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_126
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 225
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d51f5c35ca134cb94b69a46de5ca4
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_127
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 226
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd771bcc712b34081c74a36d214ac8
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_128
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 226
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bfd90738fc4eb489f5f11b2893dd4d
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_129
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 225
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1175ef50551908b459d13189d7e1b39f
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_130
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 231
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b1ea26f62d25a4d8714e12dcda401c
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_131
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 172
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59be564d33227b4f96ce525201d0a0f
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_132
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 173
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c435f209b537b748b228b72d470091c
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_133
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 173
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2f51b2f0b140e49be24f9a64637b31
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 175
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09012555f30bd04b9ee23580defedc1
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_135
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 166
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e736ac97618d5204cbd44f1d6e0006cc
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_136
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 172
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9563231a802870c4f898d673276805b6
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 173
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9b99e121bc107409aafe18c017c059
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_138
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 172
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c570452246780049a628482b1774b7d
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_139
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 165
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71892f83139be6439720c9ac8e96a2d
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_140
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 171
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c008ddef7e4c4abb2619626456ba8
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_141
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 166
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01768cd5eed6b9d4e9c5311b96c82534
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_142
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 123
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef2164ac237be4cb8d7c8387dbc7bb
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_143
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 124
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d8d0996277f0746b42862b3e4b6195
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_144
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 120
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94614500dd34ab499d100d2ecb7e00e
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_145
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeced2bf2ad88ee40967cb32760e77d8
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 115
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4135d67303d89694da8245b5c9469879
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_147
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 112
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52251c8242006724a983808f6f2994e8
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_148
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 116
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699c3cf7464135b4e95c7bcc359e4345
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_149
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 116
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febd362bef7bf044f809e8cd96630d97
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_150
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 121
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d5e3bedbe17d049adf65add32906d1
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_151
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 120
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea01973b0b43b084bbd3cb9695fb7b08
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_152
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 119
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004a7f33939d7074da854353a2f04135
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_153
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 111
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866bcdcd16901ae41bf2dc88fa3ac90c
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_154
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 111
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f4e07e550779144bbe046ffefdf644
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_155
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 58
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a1496a2dad17469124fa7f6d13783
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_156
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b6e196ebea1114fbe0ee33ac789cd0
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_157
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ec97ce8b1272242a2e8b3c5de2db06
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_158
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2ef732f20bd1f47a1cc7f72c7242a9
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_159
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 59
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0577c4a57b551744aaec41a8b3894c2f
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_160
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 60
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d112f76ac9ba59f44bff10ff000b82fe
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_161
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 61
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4a080d838cc7b4bb2718ee88813820
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_162
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 64
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00517c89c08c0424e8d3ed30d0c62b92
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_163
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 54
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34feabfdb0440eb42a8ec0fd3c037ba7
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_164
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 68
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4254fb66495c864f923e8c19688d074
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_165
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 53
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2a9b9b1854a3d4bac397a059bba612
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_166
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 54
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b589ac5df8824714295b8a146f84a5ca
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_167
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 55
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea6df9da24f6894195bf4c0140e0fa9
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_168
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 67
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402afaac37d16c14b99a4d1929427743
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_169
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 56
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c6fae8989a238488691b054e4f8762
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_170
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 54
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a3d97270d40474ebaa20d2fe10085e
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_171
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 54
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af81ec86b62fa344a13f698c9d0f66f
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_172
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cb6954dd108a94c93f54bea4fa19c3
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_173
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 54
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8021df1cf546a884d86bffe3d201b49d
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_174
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 24
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45391e61dd0b91d488653fe328b5a66a
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_175
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 23
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51475e91e4dac6a46b34edf211e7dad7
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_176
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 23
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b803c9a7075316e469639815a69b41f7
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_177
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 10
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c8d43b1541d14faa06f474bb3e15b
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_178
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cb0beba3beb834f97721454499257b
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_179
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 5
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf885a5debfc9e439707caa9c259b04
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_180
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 43
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2b2a83aa22ccb47a1263ba4c1dc7a2
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_181
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 45
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c66fa75680eb849899601875493b73
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_182
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bb3c237cbcafb4eb3f0627d0773a5f
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_183
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc858defcec6b4eae4ba0100d228e8
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_184
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 45
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f63dfc3843d78468428214b2497ff2
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_185
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 14
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d03efdec17bf7c459b6100dcf4f9772
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Battletoads - Battletoads_186
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 14
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9096318e1774a84dbd0896e496824d4
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d89acd57d9bd4254484471c2b9dd76c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
